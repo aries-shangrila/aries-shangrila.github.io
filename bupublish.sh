@@ -1,5 +1,3 @@
-notablog generate .
-rm -rf docs
 rm -rf cache
 cp -r public docs
 git add .
